@@ -24,20 +24,6 @@ I am a Computer Science graduate focused on Data Analytics, passionate about tra
 
 ---
 
-## 📁 Projects
-I use this GitHub to showcase hands-on projects such as:
-- SQL-based data analysis case studies
-- Data cleaning and preprocessing projects
-- Business dashboards using Power BI
-- Exploratory Data Analysis (EDA) using Python
-
----
-
 ## 🎯 Career Objective
 I am actively seeking opportunities as a **Data Analyst** where I can apply my skills in SQL, data visualization, and analytics to solve real business problems and contribute to data-driven decision making.
 
----
-
-## 📫 Connect With Me
-- LinkedIn: [Add your link]
-- Email: [Add your email]
